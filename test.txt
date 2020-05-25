@@ -1,1 +1,1 @@
-http://47.112.178.187:18964/modules/servers/V2raySocks/api.php
+http://vilavpnsub.xyz/modules/servers/V2raySocks/api.php
