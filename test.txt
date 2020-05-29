@@ -1,1 +1,1 @@
-http://vilavpnsub.xyz/modules/servers/V2raySocks/api.php
+https://vilavpnsub.xyz/modules/servers/V2raySocks/api.php
