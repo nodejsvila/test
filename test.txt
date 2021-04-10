@@ -1,1 +1,1 @@
-https://vvsub.xyz/modules/servers/V2raySocks/api.php
+http://vvsub.xyz/modules/servers/V2raySocks/api.php
