@@ -1,1 +1,1 @@
-https://vilavpn.com/modules/servers/V2raySocks/api.php
+http://vvmmir.xyz/modules/servers/V2raySocks/api.php
