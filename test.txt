@@ -1,1 +1,1 @@
-http://vilanet.site/modules/servers/V2raySocks/api.php
+https://vilanet.site/modules/servers/V2raySocks/api.php
