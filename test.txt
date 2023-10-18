@@ -1,1 +1,1 @@
-http://vvmmir.xyz/modules/servers/V2raySocks/api.php
+http://vilanet.site/modules/servers/V2raySocks/api.php
